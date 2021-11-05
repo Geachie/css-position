@@ -6,19 +6,19 @@
   position: relative;
 }
 
-.item1,
-.item2 {
+.color1,
+.color2 {
   width: 200px;
   height: 400px;
 }
 
-.item1 {
+.color1 {
   background-color: green;
   position: absolute;
   top: 0;
 }
 
-.item2 {
+.color2 {
   background-color: orangered;
   position: absolute;
   right: 0;
